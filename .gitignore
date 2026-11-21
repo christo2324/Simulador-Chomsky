@@ -1,0 +1,25 @@
+
+# Archivos compilados de Maven
+target/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración local de Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Configuración de IntelliJ
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
