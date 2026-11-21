@@ -1,4 +1,3 @@
-
 package com.chomsky.simulador_chomsky;
 
 import javax.swing.SwingUtilities;
